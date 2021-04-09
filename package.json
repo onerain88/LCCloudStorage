@@ -1,0 +1,8 @@
+{
+  "name": "com.leancloud.storage",
+  "displayName": "LeanCloud Storage",
+  "description": "LeanCloud Storage Service",
+  "version": "0.7.3",
+  "unity": "2018.1",
+  "license": "MIT"
+}
